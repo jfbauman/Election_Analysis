@@ -1,5 +1,6 @@
 
 import csv
+from tracemalloc import stop
 filepath = "election_results.csv"
 
 print("Hi")
@@ -9,6 +10,7 @@ with open(filepath, "r") as f:
     print("Hello", csv_values)
     for x in csv_values:
         print(x[1])
+     
 
 print("sssssssssss")
 
