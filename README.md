@@ -6,9 +6,9 @@ Overview of Election Audit
 *There were 369,711 votes cast in this congressional election.
 
 ### County Results
-*Jefferson county had 38,855 votes which accounted for 10.5% of the total votes. 
-*Denver county had 306,055 votes which accounted for 82.8% of the total votes. 
-*Arapahoe county had 24,801 votes which accounted for 6.7% of the total votes. 
+-Jefferson county had 38,855 votes which accounted for 10.5% of the total votes. 
+-Denver county had 306,055 votes which accounted for 82.8% of the total votes. 
+-Arapahoe county had 24,801 votes which accounted for 6.7% of the total votes. 
 ***Denver county had the largest number of votes with 306,055. 
 ### Candidate Results
 *Charles Casper Stockham had 85,213 winning votes giving him 23.0% of the total votes. 
