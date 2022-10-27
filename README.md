@@ -10,7 +10,7 @@ Jefferson county had 38,855 votes which accounted for 10.5% of the total votes.
 Denver county had 306,055 votes which accounted for 82.8% of the total votes. 
 Arapahoe county had 24,801 votes which accounted for 6.7% of the total votes. 
 Denver county had the largest number of votes with 306,055. 
-(Election_Results_County.png)
+
 ### Candidate Results
 Charles Casper Stockham had 85,213 winning votes giving him 23.0% of the total votes. 
 Diana DeGette had 272,892 winning votes giving her 73.8% of the total votes
@@ -20,3 +20,5 @@ Diana DeGette won the election with 272,892 winning votes giving her 73.8% of th
 
 ##Election-Audit Summary
 This script can be used for different types of state, county or city elections with some modifications. By collecting data including the gender of voters and what party they're affiliated with and what voting district they're in, you can extract valueable data about the voters. 
+
+[Election_Results_County.png!]
