@@ -1,5 +1,5 @@
 # Election_Analysis
-##Overview of Election Audit
+Overview of Election Audit
 ### The purpose of this election audit analysis is to find out the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. We also figured out the total votes and percentage of votes for each candidate to find the winner of the election. 
 
 ## Election Audit Results 
