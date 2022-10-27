@@ -21,4 +21,4 @@ Diana DeGette won the election with 272,892 winning votes giving her 73.8% of th
 ##Election-Audit Summary
 This script can be used for different types of state, county or city elections with some modifications. By collecting data including the gender of voters and what party they're affiliated with and what voting district they're in, you can extract valueable data about the voters. 
 
-[Election_Results_County.png!]
+![Election_Results](Election_Results_County.png)
